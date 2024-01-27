@@ -110,7 +110,7 @@ const Main = () => {
                         </button>
                     </form>
                     <div className="products__table ">
-                        <table className="table table-striped">
+                        <table className="table">
                             <thead>
                                 <tr>
                                     <th scope="col">Name</th>
